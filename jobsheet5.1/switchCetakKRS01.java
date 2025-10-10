@@ -1,4 +1,4 @@
-
+//Adelia Amanta Putri, 01
 import java.util.Scanner;
 
 public class switchCetakKRS01 {
