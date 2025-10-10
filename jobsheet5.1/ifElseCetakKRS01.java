@@ -1,4 +1,4 @@
-
+//Adelia Amanta Putri, 02
 import java.util.Scanner;
 
 public class ifElseCetakKRS01 {
